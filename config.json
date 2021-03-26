@@ -1,0 +1,49 @@
+{
+  "address": {
+    "googleMaps": "",
+    "line1": "",
+    "line2": ""
+  },
+  "email": "adorebeautytherapy@outlook.com",
+  "hrefLang": "en-AU",
+  "openingHours": [
+    {
+      "days": "",
+      "hours": ""
+    }
+  ],
+  "phone": "0403 583 442",
+  "shortName": "Adore",
+  "siteDescription": "Port Macquarie based beauty therapist, specialising in mobile bridal makeup artistry for wedding parties.",
+  "siteImage": "/og-image.jpg",
+  "siteNavigation": [
+    {
+      "label": "About Us",
+      "slug": "/about-us/"
+    },
+    {
+      "label": "Our Treatments",
+      "slug": "/our-treatments/"
+    },
+    {
+      "label": "Cosmetic Tattooing",
+      "slug": "/cosmetic-tattooing/"
+    },
+    {
+      "label": "Contact Us",
+      "slug": "/contact-us/"
+    }
+  ],
+  "siteTitle": "Adore Beauty & Cosmetic Tattoo",
+  "siteUrl": "https://www.adorebeautytherapy.com/",
+  "socialLinks": [
+    {
+      "link": "https://www.facebook.com/adorebeautytherapy",
+      "socialNetwork": "Facebook"
+    },
+    {
+      "link": "httpshttps://www.instagram.com/adore.beauty_cosmetic.tattoo/",
+      "socialNetwork": "Instagram"
+    }
+  ]
+}
